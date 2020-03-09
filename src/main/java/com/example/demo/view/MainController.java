@@ -9,4 +9,9 @@ public class MainController {
     public String getIndexPage() {
         return "index";
     }
+
+    @RequestMapping("/register")
+    public String getRegisterPage() {
+       return "registerAccount";
+    }
 }
