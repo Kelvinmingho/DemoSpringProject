@@ -1,3 +1,0 @@
-this is testing file.
-develop branch bugfix 123
-bug 1
